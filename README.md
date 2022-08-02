@@ -4,14 +4,14 @@ Bu repo [www.kodluyoruz.org](Kodluyoruz) Front-End Eğitiminde oluşturduğumuz 
 
 ## Git Cheat Sheet
 
-![git-cheat-sheet-education/git-cheat-sheet-education (dragged) 1.png](Cheet Sheet 1)
-![git-cheat-sheet-education/git-cheat-sheet-education (dragged) 2.png](Cheet Sheet 2)
+![Cheat Sheet 1](git-cheat-sheet-education/git-cheat-sheet-education (dragged) 1.png)
+![Cheat Sheet 2](git-cheat-sheet-education/git-cheat-sheet-education (dragged) 2.png)
 
 ## Installation
 
 Öncelikle projeyi clonelayın. [https://github.com/mzyavuz/kodluyoruzilkrepo.git](https://github.com/mzyavuz/kodluyoruzilkrepo.git)
 
-'git clone https://github.com/mzyavuz/kodluyoruzilkrepo.git'
+' git clone https://github.com/mzyavuz/kodluyoruzilkrepo.git '
 
 ## Usage
 
