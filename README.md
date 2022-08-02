@@ -4,8 +4,8 @@ Bu repo [www.kodluyoruz.org](Kodluyoruz) Front-End Eğitiminde oluşturduğumuz 
 
 ## Git Cheat Sheet
 
-![Cheat Sheet 1](git-cheat-sheet-education/git-cheat-sheet-education (dragged) 1.png)
-![Cheat Sheet 2](git-cheat-sheet-education/git-cheat-sheet-education (dragged) 2.png)
+![Cheat Sheet 1](git-cheat-sheet-education/git-cheat-sheet-education_1.png)
+![Cheat Sheet 2](git-cheat-sheet-education/git-cheat-sheet-education_2.png)
 
 ## Installation
 
